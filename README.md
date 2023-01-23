@@ -10,7 +10,7 @@ This is a code along project that was made while watching React - The Complete G
 
 ## ScreenShots
 
-![ScreenShot](/Expense-Tracker/src/img/Screenshot.png)
+![ScreenShot](/src/img/Screenshot.png)
 
 ## Available Scripts
 
