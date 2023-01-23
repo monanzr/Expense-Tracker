@@ -3,14 +3,14 @@
 ## Description
 
 This project is a basic ReactJS Web Application made to track the expenses of user.\
-This project contains no backend integrations.\
+This project contains no backend integrations.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
-This is a code along project that was made while watching React - The Complete Guide (incl Hooks, React Router, Redux) by Maximilian Schwarzmüller.\
+This is a code along project that was made while watching React - The Complete Guide (incl Hooks, React Router, Redux) by Maximilian Schwarzmüller.
 
 ## ScreenShots
 
-![ScreenShots](https://drive.google.com/file/d/1XbXammR1HOvUNqpRrguEfHOzR2L8YGXm/view?usp=share_link)
+![ScreenShot](https://drive.google.com/file/d/1XbXammR1HOvUNqpRrguEfHOzR2L8YGXm/view)
 
 ## Available Scripts
 
