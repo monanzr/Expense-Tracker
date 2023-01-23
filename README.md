@@ -10,7 +10,7 @@ This is a code along project that was made while watching React - The Complete G
 
 ## ScreenShots
 
-![ScreenShot](https://drive.google.com/file/d/1XbXammR1HOvUNqpRrguEfHOzR2L8YGXm/view)
+![ScreenShot](/Expense-Tracker/src/img/Screenshot.png)
 
 ## Available Scripts
 
