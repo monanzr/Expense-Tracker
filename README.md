@@ -16,6 +16,6 @@ This is a code along project that was made while watching React - The Complete G
 
 In the project directory, you can run:
 
-## `npm install`
+`npm install`
 
-## `npm start`
+`npm start`
