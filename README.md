@@ -12,7 +12,7 @@ This is a code along project that was made while watching React - The Complete G
 
 ![ScreenShot](/src/img/Screenshot.png)
 
-## Available Scripts
+## Start the Project
 
 In the project directory, you can run:
 
