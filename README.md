@@ -10,7 +10,7 @@ This is a code along project that was made while watching React - The Complete G
 
 ## Live Preview
 
-(https://expense-tracker-mn.netlify.app/)
+https://expense-tracker-mn.netlify.app/
 
 
 ## ScreenShots
